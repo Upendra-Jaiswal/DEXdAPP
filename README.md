@@ -1,11 +1,11 @@
 
 # Web3 Decentralized Exchange (DEX) DApp
 
-![Project Logo](your-logo.png)
+
 
 ## Overview
 
-Welcome to our Web3 Decentralized Exchange (DEX) DApp project! In this project, we have built a fully functional DEX that allows users to swap ERC20 tokens on a selected EVM (Ethereum Virtual Machine) chain. Our DApp leverages various technologies and APIs to provide a seamless trading experience.
+Welcome to my Web3 Decentralized Exchange (DEX) DApp project! In this project, we have built a fully functional DEX that allows users to swap ERC20 tokens on a selected EVM (Ethereum Virtual Machine) chain. Our DApp leverages various technologies and APIs to provide a seamless trading experience.
 
 ## Table of Contents
 
