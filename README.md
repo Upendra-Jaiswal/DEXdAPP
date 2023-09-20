@@ -1,6 +1,4 @@
-Creating a well-structured README file on GitHub is crucial for explaining your project to users and potential collaborators. Here's an example README file for your decentralized exchange (DEX) DApp project:
 
-```markdown
 # Web3 Decentralized Exchange (DEX) DApp
 
 ![Project Logo](your-logo.png)
